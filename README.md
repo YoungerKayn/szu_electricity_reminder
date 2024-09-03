@@ -37,6 +37,6 @@
 
 三、 pushplus token 为pushplus的推送token，可以将结果推送到微信上，点击[这里](pushplus.plus)了解如何使用，不填则不推送
 
-四、 pushplus topic 为pushplus的推送群组，创建群组后可以同时向宿舍所有人推送，使用方法同上，不填则单独推送
+四、 pushplus topic 为pushplus的推送群组，创建群组后可以同时向宿舍所有人推送，使用方法同上，可不填
 
 五、 每次查询的数据都会被存储在同目录下名为log.db的SQLite数据库中，可自行导出
