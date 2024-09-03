@@ -1,20 +1,19 @@
 # 深圳大学宿舍用电量查询
 
-**需连接深大内网使用**
-**需连接深大内网使用**
-**需连接深大内网使用**
+**需连接深大内网使用**  
+**需连接深大内网使用**  
+**需连接深大内网使用**  
 
 ### 填写一下reminder_config.json即可使用
 
-*reminder_config.json填写示例*
-
-
-{
-    "宿舍名": "风槐斋",
-    "门牌号": "923",
-    "pushplus token": "********************",
-    "pushplus topic": "***"
-}
+*reminder_config.json填写示例*  
+  
+{  
+    "宿舍名": "风槐斋",  
+    "门牌号": "923",  
+    "pushplus token": "********************",  
+    "pushplus topic": "***"  
+}  
 
 
 ## 配置文件填写说明
@@ -36,7 +35,7 @@
   
 二、 宿舍门牌号，如 '923'、'1406'
 
-三、 pushplus token 为pushplus的推送token，可以将结果推送到微信上，点击[这里](pushplus.plus)了解如何使用，不填则不推送，通过对话框显示结果
+三、 pushplus token 为pushplus的推送token，可以将结果推送到微信上，点击[这里](pushplus.plus)了解如何使用，不填则不推送
 
 四、 pushplus topic 为pushplus的推送群组，不清楚可以不填写
 
