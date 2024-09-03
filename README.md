@@ -12,7 +12,7 @@
     "宿舍名": "风槐斋",  
     "门牌号": "923",  
     "pushplus token": "********************",  
-    "pushplus topic": "***"  
+    "pushplus topic": ""  
 }  
 
 
